@@ -11,7 +11,7 @@ In this app, Shiny app will use those saved CSV files to run the
 dashboard as web scrapping will not be done as part of the app. So that,
 we can avoid unnecessary bugs due to missing website links from ongiong
 updates by organizations. The dashboard can be accessible at
-<https://www.shinyapps.io/>.
+<https://soehtutaung.shinyapps.io/Humanitarian-dashboard_Myanmar/> on request.
 
 (**Note**: *Being a free cloud server account, the provided link may
 expire after limited time. This is my very first interactive dashboard
